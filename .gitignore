@@ -1,0 +1,7 @@
+*.log
+*.bak
+
+code/api_key.txt
+code/api_secret.txt
+code/data/
+papers/
